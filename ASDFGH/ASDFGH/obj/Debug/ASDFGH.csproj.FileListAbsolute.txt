@@ -1,0 +1,14 @@
+c:\users\test\source\repos\ASDFGH\ASDFGH\bin\Debug\ASDFGH.exe.config
+c:\users\test\source\repos\ASDFGH\ASDFGH\bin\Debug\ASDFGH.exe
+c:\users\test\source\repos\ASDFGH\ASDFGH\bin\Debug\ASDFGH.pdb
+c:\users\test\source\repos\ASDFGH\ASDFGH\obj\Debug\ASDFGH.csprojAssemblyReference.cache
+c:\users\test\source\repos\ASDFGH\ASDFGH\obj\Debug\ASDFGH.Adding.resources
+c:\users\test\source\repos\ASDFGH\ASDFGH\obj\Debug\ASDFGH.Form1.resources
+c:\users\test\source\repos\ASDFGH\ASDFGH\obj\Debug\ASDFGH.Properties.Resources.resources
+c:\users\test\source\repos\ASDFGH\ASDFGH\obj\Debug\ASDFGH.csproj.GenerateResource.cache
+c:\users\test\source\repos\ASDFGH\ASDFGH\obj\Debug\ASDFGH.csproj.CoreCompileInputs.cache
+c:\users\test\source\repos\ASDFGH\ASDFGH\obj\Debug\ASDFGH.exe
+c:\users\test\source\repos\ASDFGH\ASDFGH\obj\Debug\ASDFGH.pdb
+c:\users\test\source\repos\ASDFGH\ASDFGH\obj\Debug\ASDFGH.AddStd.resources
+c:\users\test\source\repos\ASDFGH\ASDFGH\obj\Debug\ASDFGH.AddCls.resources
+c:\users\test\source\repos\ASDFGH\ASDFGH\obj\Debug\ASDFGH.Addtchr.resources
